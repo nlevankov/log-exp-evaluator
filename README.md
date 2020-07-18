@@ -1,6 +1,6 @@
 ## log-exp-evaluator
 
-A logical expression parser and evaluator implemented using [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
+A logical expression parser and evaluator implemented using [reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
 
 An input data consists of logical expressions, separated with ";".  
 Logical expressions consist of:
